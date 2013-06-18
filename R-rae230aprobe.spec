@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.9.0
-Release:          1
+Release:          2
 Summary:          Probe sequence data for microarrays of type rae230a
 Group:            Sciences/Mathematics
 License:          LGPL
