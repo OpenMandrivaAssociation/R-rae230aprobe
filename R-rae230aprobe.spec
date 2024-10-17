@@ -7,7 +7,7 @@ Release:          1
 Summary:          Probe sequence data for microarrays of type rae230a
 Group:            Sciences/Mathematics
 License:          LGPL
-URL:              http://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
+URL:              https://bioconductor.org/packages/release/data/annotation/html/%{packname}.html
 Source0:          http://bioconductor.org/packages/release/data/annotation/src/contrib/rae230aprobe_2.12.0.tar.gz
 BuildArch:        noarch
 Requires:         R-core
